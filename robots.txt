@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mk5ajyye.github.io/sitemap.xml
